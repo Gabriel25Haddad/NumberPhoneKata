@@ -1,3 +1,5 @@
+Link do kata: https://www.codewars.com/kata/525f50e3b73515a6db000b83/solutions/java
+
 ## Como funciona
 
 1. O programa define um array de inteiros com 10 dígitos.
