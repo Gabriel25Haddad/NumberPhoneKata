@@ -10,7 +10,8 @@ public class NumberPhoneKata{
         num[0],num[1],num[2], //DDD
         num[3], num[4], num[5], //Primeira parte
         num[6], num[7], num[8], num[9]); //Segunda parte
-
+        
+        //Imprime os números na formatação
         System.out.println(convert);
 
     }
